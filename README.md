@@ -29,8 +29,8 @@ THEN that will be shown on the page, and added to their transaction history when
 Angelica Sargent
 
 # Screenshot
-[Screenshot]()
+<!-- [Screenshot]() -->
 
 # Link
 
-Check out this [link]()!
+Check out this [link](https://serene-journey-66363.herokuapp.com/)!
