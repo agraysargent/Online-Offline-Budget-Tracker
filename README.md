@@ -2,6 +2,8 @@
 
 # Description
 
+An online/offline budget tracker can help folks keep track of their expenses. It helps to maintain organization and to help plan your future expenses.
+
 # User Story
 
 AS AN avid traveller
@@ -24,12 +26,14 @@ THEN that will be shown on the page, and added to their transaction history when
 
 # Considerations
 
+Don't forget to attach your service worker and reference your database correctly within your code. If you don't, it causes complications within the application and can not function properly. Also add more console logs to keep track of errors.
+
 # Collaborators
 
 Angelica Sargent
 
 # Screenshot
-<!-- [Screenshot]() -->
+![Screenshot](./public/assets/images/Screenshot.png)
 
 # Link
 
